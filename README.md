@@ -1,1 +1,1 @@
-# Procesos-Estocasticos-I
+# Procesos Estocásticos I
